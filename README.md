@@ -1,5 +1,6 @@
 # Real-Time-Air-Quality-Monitoring-System
 
+ Tools & technologies used: ESP32 microcontroller, DHT11, MQ7, MQ2, Blynk Software.
 
 - Developed a low-cost, portable air quality monitoring system using an  ESP32 microcontroller. 
 - Integrated sensors(DHT11, MQ7, MQ2) to measure  temperature, humidity, CO and smoke.
